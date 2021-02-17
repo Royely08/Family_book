@@ -1,0 +1,21 @@
+body{
+    text-align:center;
+  }
+  #firstp{
+    word-spacing:10px;
+    font-variant:small-caps;
+    text-align:center;
+    font-size:80px;
+    font-family: fantasy;
+  }
+  #reasontext{
+    font-size:50px;
+  }
+  #album{
+    border-style: solid;
+    border-color:#D32F2F;
+    border:1px;
+    border-radius:2px;
+    padding:5px;
+    width:450px;
+  }
